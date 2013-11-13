@@ -1,4 +1,6 @@
-Android Tutorial RouteResume
-============================
+Android Tutorial Map
+====================
 
-Lear easily how to use the method <b>doRouteResume</b> from br.com.maplink.RouteManager class. This method obtain route's totals of a set of routes.
+Learn easily how to implement a map with all possible listeners. In this tutorial we will use the main class br.com.maplink.map.MapTemplate.
+
+See more in <a href="http://dev.maplink.com.br" target="_blank">dev.maplink.com.br</a>
