@@ -18,8 +18,7 @@ import br.com.maplink.map.listener.MapZoomEndListener;
 
 public class MainActivity extends Activity {
 	private static final String TAG = "MapLink";
-	// String token = "Your access token here";
-	String token = "c13iyCvmcC9mzwkLd0LCbmYC5mUF5m2jNGNtNGt6NmK6NJK=";
+	String token = "Your access token here";
 	MapTemplate map;
 
 	@Override
